@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codergit1
-- 👀 I’m interested in coding, ML
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in coding, ML, Microsoft Azure
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me: email: soundarya.sejong@gmail.com
 
