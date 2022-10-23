@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codergit1
-- 👀 I’m interested in coding, ML, certified in AI-900 Microsoft Azure [Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- 👀 I’m interested in coding, ML, certified in AI-900 Microsoft Azure ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me: LinkedIn (Link In Bio), email: soundarya.sejong@gmail.com
