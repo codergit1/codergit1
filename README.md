@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Soundarya! 😊 @codergit1
+- 👋 Hi! I'm Soundarya a.k.a Sound! 😊 @codergit1
 - 👀 Main Interests in ML, AI
 - 🎖️ Microsoft Azure AI-900 Certified! ➡️ [![Azure](](https://www.credly.com/badges/05ddbebb-25a8-4bef-b957-4f8e13659792))](https://www.credly.com/badges/05ddbebb-25a8-4bef-b957-4f8e13659792) 
 - 🌱 Currently interested in AWS
